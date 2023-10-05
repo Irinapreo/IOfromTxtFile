@@ -1,0 +1,6 @@
+Irina, Preo, www.yahoo.com
+Elias, Hyle, www.intel.com
+Andy, Grove, www.apple.com
+Steve, Jobs, www.wahoo.com
+Sheryl, Bat, www.banan.com
+John, DOes, www.nobody.com

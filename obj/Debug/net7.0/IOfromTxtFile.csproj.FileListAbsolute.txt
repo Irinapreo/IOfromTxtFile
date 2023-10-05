@@ -1,0 +1,14 @@
+C:\Users\46708\source\repos\IOfromTxtFile\bin\Debug\net7.0\IOfromTxtFile.exe
+C:\Users\46708\source\repos\IOfromTxtFile\bin\Debug\net7.0\IOfromTxtFile.deps.json
+C:\Users\46708\source\repos\IOfromTxtFile\bin\Debug\net7.0\IOfromTxtFile.runtimeconfig.json
+C:\Users\46708\source\repos\IOfromTxtFile\bin\Debug\net7.0\IOfromTxtFile.dll
+C:\Users\46708\source\repos\IOfromTxtFile\bin\Debug\net7.0\IOfromTxtFile.pdb
+C:\Users\46708\source\repos\IOfromTxtFile\obj\Debug\net7.0\IOfromTxtFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46708\source\repos\IOfromTxtFile\obj\Debug\net7.0\IOfromTxtFile.AssemblyInfoInputs.cache
+C:\Users\46708\source\repos\IOfromTxtFile\obj\Debug\net7.0\IOfromTxtFile.AssemblyInfo.cs
+C:\Users\46708\source\repos\IOfromTxtFile\obj\Debug\net7.0\IOfromTxtFile.csproj.CoreCompileInputs.cache
+C:\Users\46708\source\repos\IOfromTxtFile\obj\Debug\net7.0\IOfromTxtFile.dll
+C:\Users\46708\source\repos\IOfromTxtFile\obj\Debug\net7.0\refint\IOfromTxtFile.dll
+C:\Users\46708\source\repos\IOfromTxtFile\obj\Debug\net7.0\IOfromTxtFile.pdb
+C:\Users\46708\source\repos\IOfromTxtFile\obj\Debug\net7.0\IOfromTxtFile.genruntimeconfig.cache
+C:\Users\46708\source\repos\IOfromTxtFile\obj\Debug\net7.0\ref\IOfromTxtFile.dll
