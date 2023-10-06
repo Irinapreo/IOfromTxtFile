@@ -1,25 +1,19 @@
 ﻿using System.Net.NetworkInformation;
-
+using System.IO;
 namespace IOfromTxtFile;
 
 class Program
 {
     static void Main(string[] args)
     {
-        
+        string filePath = "C:\\46708\\repos\\IOfromTxtFile\\Test.txt";
 
-        //string[] lines = File.ReadAllLines(filePath);
+        List<string> lines = File.ReadAllLines(filePath).ToList();
 
-        List<string> lines = new List<string>();
-        lines = File.ReadAllLines("../../../Test.txt").ToList();
-        foreach (var line in lines)
+        foreach (string line in lines)
         {
             Console.WriteLine(line);
         }
-
-        lines.Add("John, DOes, www.nobody.com");
-        File.WriteAllLines("../../../Test.txt", lines);
-
         Console.ReadLine();
 
     }
